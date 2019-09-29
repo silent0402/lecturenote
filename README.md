@@ -22,12 +22,12 @@
 - [Pandas 튜토리얼 - 2. Series와 DataFrame](https://colab.research.google.com/drive/1z9nx02UuRZ7i977CN8d1GN6QRIuFDjNi)
 - [Pandas 튜토리얼 - 3. 데이터 선택 및 조작하기](https://colab.research.google.com/drive/1JSgeUl2hXam-ApHYxxM_DYUhQsgu98fr)
 - [Pandas 튜토리얼 - Lab1](https://colab.research.google.com/drive/1rld2dOx6jlnx4fq7qDUYWN7hLnVdKLc_)
-- [Pandas 튜토리얼 - Lab2 : 데이터 전처리,탐색,분석](https://colab.research.google.com/drive/1jUt0G5PsdNIKBTCfhlKA0KDhFbXnXiPl)
+- [Pandas 튜토리얼 - Lab2 : 데이터 전처리,탐색,분석 (09/29 Merge 추가)](https://colab.research.google.com/drive/1jUt0G5PsdNIKBTCfhlKA0KDhFbXnXiPl)
 
 
 답안파일
 - [Pandas 튜토리얼 - 2. Series와 DataFrame-답안](https://colab.research.google.com/drive/1fiY8RNycrsGYdtSQg55fYFYojq6Fh4_Z)
 - [Pandas 튜토리얼 - 3. 데이터 선택 및 조작하기-답안](https://colab.research.google.com/drive/1hnrhmqzHQJmNfyfjLT4fMvPKdiCfEBUb)
 - [Pandas 튜토리얼 - Lab1-답안](https://colab.research.google.com/drive/1a8IkjE-FgcFT_pX6LK0Q5H9ahIesJGCQ)
-- [Pandas 튜토리얼 - Lab2 : 데이터 전처리,탐색,분석-답안](https://colab.research.google.com/drive/1g-ILVZiR4Wiahx9vzr4iN0ZhExhC_UUu)
+- [Pandas 튜토리얼 - Lab2 : 데이터 전처리,탐색,분석-답안 (09/29 Merge 추가)](https://colab.research.google.com/drive/1g-ILVZiR4Wiahx9vzr4iN0ZhExhC_UUu)
 
